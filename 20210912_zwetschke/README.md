@@ -8,4 +8,4 @@
 | Menge    | 2kg -> 500ml Röster, 1400ml Marmelade                                                                                                      |
 | Rezept   | [Röster](https://www.gutekueche.at/zwetschkenroester-rezept-1355), [Marmelade](https://www.gutekueche.at/zwetschkenmarmelade-rezept-42578) |
 
-![IMG_8130.JPG](/Users/florian/Documents/Hardware_Projekte/2021_fruchtzwerg/20210911_griachal/IMG_8130.JPG)
+![IMG_8130.JPG](IMG_8130.JPG)
