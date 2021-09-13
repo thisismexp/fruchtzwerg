@@ -12,4 +12,4 @@
 | Menge         | ca. 100g                                                                                                                                                                                                                                                                                           |
 | Rezept        | [likör aus kriecherlkernen](https://www.ichkoche.at/likoer-aus-kriecherlkernen-rezept-239231)                                                                                                                                                                                                      |
 
-![](foto.png)
+![foto.png](foto.png)
