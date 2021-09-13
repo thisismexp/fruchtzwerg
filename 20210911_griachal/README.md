@@ -1,0 +1,10 @@
+# Griachal vom Friedhof
+
+Rote und gelbe Prunus cerasifera (Krischpflaumen).
+
+| Art      | Rote und gelbe Prunus cerasifera (Krischpflaumen)                                                                                                                                                                                                                                                  |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Woher    | Grünbeckweg, 1170 Wien<br/>Baumnummer: 145, 146 und 147 (siehe [Baumkataster](https://www.wien.gv.at/umweltgut/public/grafik.aspx?ThemePage=11&bookmark=PAstRjL-cUkaHnvtCAAeEQjnC-cs6-crOsX3Z-cJ1b3VCe8VZZP2o-cKSUyDCj9L6uS8mPcxuMUiqGZg04MZ0ONb6ZEYDnvTqmT1OYYb7EuTK7THaPzYbMoCOC-ch-cLmIC1A8-b)) |
+| Gepflück | 2021-09-11 10h                                                                                                                                                                                                                                                                                     |
+| Verkocht | 2021-09-11 13h                                                                                                                                                                                                                                                                                     |
+| Menge    | 2kg -> ~1,4l                                                                                                                                                                                                                                                                                       |
