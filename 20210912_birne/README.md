@@ -9,4 +9,4 @@
 | Menge       | 1,2kg -> 800ml Chutney                                                                                                                                                                                                             |
 | Rezept      | 800g Birne<br/>1 Zitrone (Saft)<br/>2 Zwiebel<br/>2EL Ingwer gerieben<br/>175g Zucker<br/>175ml Weißweinessig<br/>Zimtstange<br/>Salz<br/>1TL Chiliflocken<br/>[Chutney](https://www.kochbar.de/rezept/535404/Birnen-Chutney.html) |
 
-![IMG_8128.JPG](/Users/florian/Downloads/IMG_8128.JPG)
+![IMG_8128.JPG](IMG_8128.JPG)*nicht der Birnenbaum ;)
